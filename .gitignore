@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+cleaned_dataset.csv
+*.db
+*.db-journal
+fraud.db
